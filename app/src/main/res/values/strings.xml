@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_fun">Fun</string>
+
+    <!-- Category name for the vocabulary attractions for colors [CHAR LIMIT=20] -->
+    <string name="category_history">History</string>
+
+    <!-- Category name for the vocabulary attractions for numbers [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Category name for the vocabulary attractions for family members [CHAR LIMIT=20] -->
+    <string name="category_other">Other</string>
+
+    <string name="test">Test</string>
+    <string name="shopping">Shopping</string>
+    <string name="other">Other</string>
+    <string name="fun">Fun</string>
+    <string name="historical">Historical</string>
+
+</resources>
